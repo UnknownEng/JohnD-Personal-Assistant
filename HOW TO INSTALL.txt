@@ -1,0 +1,33 @@
+JohnD by Maverick Technologies
+==============================
+
+INSTALL
+1. Double-click JohnD_Setup_1.7.0.exe and follow the steps.
+   Windows may show "Windows protected your PC" because the app is new:
+   click "More info", then "Run anyway".
+2. JohnD starts when setup finishes, and its window opens.
+   The first start downloads its speech files (about 190 MB). Keep the internet connected.
+   You'll hear "John D online" when it's ready.
+
+(The "JohnD" folder next to this file is the same program without an installer:
+ copy the folder anywhere and run JohnD.exe. Give customers the Setup file.)
+
+USE
+- Say "John D", wait for the beep, then speak.   Or press Ctrl + Alt + J.
+- You can also type in the JohnD window. The Help tab lists things to say.
+- The round "J" icon near the clock: double-click to open the window,
+  right-click for Settings, Pause microphone and Quit.
+
+CONVERSATION AND SMART TASKS (optional, free)
+In the JohnD window open Connections > Thinking brain and follow the two buttons.
+Without it JohnD still does commands, weather, reminders, lookups and more.
+
+LICENCE
+JohnD needs a licence key. When it first opens it shows the Licence box:
+paste the key you received and press Connect.
+
+UNINSTALL
+Windows Settings > Apps > JohnD > Uninstall.
+
+REQUIREMENTS
+Windows 10 or 11 (64-bit), a microphone, 8 GB of RAM, about 2 GB of free disk space.
