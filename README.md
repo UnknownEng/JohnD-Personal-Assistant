@@ -12,7 +12,7 @@ Click the preview to open the full [demo video](JohnD_Demo.mp4).
 
 ## Download
 
-Get **JohnD_Setup_1.7.0.exe** from the [latest release](../../releases/latest).
+Get **JohnD_Setup_1.7.1.exe** from the [latest release](../../releases/latest).
 
 A licence key is required. JohnD asks for it the first time it opens.
 
@@ -36,18 +36,21 @@ A licence key is required. JohnD asks for it the first time it opens.
 
 ### 1. Install
 
-1. Download `JohnD_Setup_1.7.0.exe` from the [latest release](../../releases/latest).
+1. Download `JohnD_Setup_1.7.1.exe` from the [latest release](../../releases/latest).
 2. Double-click it. Windows may show "Windows protected your PC" because the app is new: click **More info**, then **Run anyway**.
 3. Follow the installer. It adds Start-menu and desktop shortcuts.
 4. JohnD starts when setup finishes, and its window opens.
 
 ### 2. Activate your licence
 
-1. The **Licence** box opens on first start.
-2. Paste the key you received and press **Connect**.
-3. You should see "Licensed to (your name)".
+1. The **Licence** box opens on first start. It shows **This PC's code** (for example `7F3A-91C2`).
+2. Send that code to the seller when you buy. Your key is made for this PC and for the number of days you bought.
+3. Paste the key you receive and press **Connect**.
+4. You should see "Licensed to (your name)".
 
-If your key is locked to one PC, the seller will ask for your machine code. It is shown in **Connections > Licence**.
+You can find the code again any time in **Connections > Licence**. If you reinstall Windows or move to a new PC, the code changes: send the new code to the seller for a new key.
+
+**Updating from 1.7.0:** install 1.7.1 over it. Keys made for 1.7.0 don't work in 1.7.1; ask the seller for a new key with your PC code.
 
 ### 3. Wait for the speech files
 

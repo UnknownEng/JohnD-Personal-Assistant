@@ -2,7 +2,7 @@ JohnD by Maverick Technologies
 ==============================
 
 INSTALL
-1. Double-click JohnD_Setup_1.7.0.exe and follow the steps.
+1. Double-click JohnD_Setup_1.7.1.exe and follow the steps.
    Windows may show "Windows protected your PC" because the app is new:
    click "More info", then "Run anyway".
 2. JohnD starts when setup finishes, and its window opens.
@@ -23,8 +23,9 @@ In the JohnD window open Connections > Thinking brain and follow the two buttons
 Without it JohnD still does commands, weather, reminders, lookups and more.
 
 LICENCE
-JohnD needs a licence key. When it first opens it shows the Licence box:
-paste the key you received and press Connect.
+JohnD needs a licence key. When it first opens it shows the Licence box with
+"This PC's code" (for example 7F3A-91C2). Send that code to the seller when you
+buy: your key is made for this PC. Paste the key you receive and press Connect.
 
 UNINSTALL
 Windows Settings > Apps > JohnD > Uninstall.
